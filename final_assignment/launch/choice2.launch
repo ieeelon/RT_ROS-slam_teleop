@@ -1,7 +1,0 @@
-<?xml version="1.0"?>
-
-<launch>
-    <node name= "case2" pkg= "final_assignment" type= "choice2.py"   />
-    <node name="teleop_twist_keyboard" pkg="teleop_twist_keyboard"     type="teleop_twist_keyboard.py"  output="screen" />
-</launch>
-
