@@ -1,0 +1,4 @@
+Possible improvements are extended, but not limited to:
+1)Building more relevant UI/UX
+2)Limit the number of possible configurations for movement, but increase their precision
+3)Improve the collision avoidance algorithm (maybe introduce simple ANN)
